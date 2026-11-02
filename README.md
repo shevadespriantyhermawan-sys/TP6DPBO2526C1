@@ -9,7 +9,7 @@
 
 ## Janji
 
-Saya Sheva Desprianty Hermawan dengan NIM [2511645] mengerjakan Tugas Praktikum 5 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Sheva Desprianty Hermawan dengan NIM [2511645] mengerjakan Tugas Praktikum 6 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 
 ## 📌 Deskripsi Projek
